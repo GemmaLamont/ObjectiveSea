@@ -1,5 +1,5 @@
 <h1>Objective Sea</h1>
- 
+<h4> Created by: Gemma Lamont, Louis Attenborough, Devin Davies, Samuel Hooker, Claire Barnaby, Chris Donovon, Sophie Walton-Smith, Michael Trotter and Ray Chen </h4>
  
 <h2>Starting the Game</h2>
 On opening Objective Sea, players may choose to play in either Single Player, Practice or Live Game (multiplayer) mode. <br>
